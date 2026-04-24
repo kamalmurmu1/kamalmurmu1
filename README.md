@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working In Xoriant
-- 🌱 I’m currently learning Spring Boot,Angular
+- 🌱 I’m currently mastering Spring Boot,Angular
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
